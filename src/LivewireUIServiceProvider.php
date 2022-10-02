@@ -2,9 +2,9 @@
 
 namespace Luckykenlin\LivewireUI;
 
+use Luckykenlin\LivewireUI\Commands\LivewireUICommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Luckykenlin\LivewireUI\Commands\LivewireUICommand;
 
 class LivewireUIServiceProvider extends PackageServiceProvider
 {

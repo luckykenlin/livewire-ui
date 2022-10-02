@@ -3,8 +3,8 @@
 namespace Luckykenlin\LivewireUI\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Luckykenlin\LivewireUI\LivewireUIServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
