@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Luckykenlin\LivewireUI\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LivewireUICommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'livewireui';
 
     public $description = 'My command';
 
